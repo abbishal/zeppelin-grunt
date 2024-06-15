@@ -1,7 +1,7 @@
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "BonkCTF 2024"
+email: "info@fbictf.com"
+description: "First Season of BonkCTF organised by Federal Bonk Investigation"
 enablePreloader: false
 
 # Head
@@ -13,12 +13,12 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 themeColor: "#03a9f4"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "Federal Bonk Investigation"
+organizerAlternateName: "Bonk Police | FBI"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "info@fbictf.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://fbictf.com/"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
