@@ -6,7 +6,7 @@
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "FBI", title: "Federal Bonk Investigation"}
   social: 
     - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
@@ -20,7 +20,7 @@
   thumbnailUrl: OlehZasadnyy.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "FBI", title: "Federal Bonk Investigation"}
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "github", link: "https://github.com/ozasadnyy"}
