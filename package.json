@@ -21,7 +21,8 @@
         "grunt-sass": "~1.1.0",
         "grunt-svgmin": "~2.0.1",
         "jit-grunt": "~0.9.1",
-        "time-grunt": "~1.1.0"
+        "time-grunt": "~1.1.0",
+        "phantomjs-prebuilt":"^2.1.8"
     },
     "engines": {
         "node": ">=0.10.0"
