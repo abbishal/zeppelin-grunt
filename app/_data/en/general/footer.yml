@@ -1,19 +1,19 @@
 languagesTitle: "Languages"
 socialLinks:
  - {link: "https://plus.google.com/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=fbictf", icon: "twitter"}
+ - {link: "https://facebook.com/fbictf", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 blocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://fbictf.com", text: "FBICTF.COM"}
+   - {link: "https://ctf.fbictf.com", text: "CTF"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@fbictf.com", text: "info@fbictf.com"}
  -
   title: "FAQ"
   links:
